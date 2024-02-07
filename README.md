@@ -26,6 +26,10 @@ A simple Python script that checks the ranking of a given domain for specified k
 ```bash
 pip install requests beautifulsoup4
 ```
+##### OR
+```bash
+pip install -r requirements.txt
+```
 ## Usage
 
 
